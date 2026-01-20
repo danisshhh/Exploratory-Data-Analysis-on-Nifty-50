@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Step 1: Load the dataset
-file_path = "/mnt/data/nifty50_dataset.csv"
+file_path = "nifty50_dataset.csv"
 df = pd.read_csv(file_path)
 
 # Step 2: Inspect the Dataset
